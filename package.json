@@ -1,0 +1,16 @@
+{
+  "name": "json-path",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^28.1.1",
+    "jsonpath": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.3"
+  }
+}

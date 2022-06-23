@@ -1,0 +1,32 @@
+{
+  "data": {
+    "relationshipQuery": {
+      "getRelationshipItems": {
+        "items": [
+          {
+            "id": "36a25e45-301e-473e-8c5c-57b330d8a01a",
+            "name": "Super Man",
+            "objectType": "CONTACT",
+            "title": null,
+            "reportTo": null,
+            "impactLevel": null,
+            "strength": {},
+            "contactRoles": {},
+            "stakeholderRoles": {
+              "items": [
+                {
+                  "id": "72e699e5-e175-4bf8-856f-b357685c9a55",
+                  "name": "test"
+                },
+                {
+                  "id": "0f36d7f7-cceb-452a-bf92-6cb912dbe5fe",
+                  "name": "test1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
